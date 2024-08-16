@@ -5,7 +5,6 @@ Power BI project with SQL use for research of coffee selling trends.
 This project contains two parts:<br/>
 1. Data prepairing and analizing in mySQL;
 2. Building Power BI presentation.
-<br/>
 ## Data preparing and analyzing in mySQL
 
 • Preparing SQL Documents
